@@ -1,6 +1,6 @@
 # Welcome to Henderson ICT SHSM
 
-## ![Static Badge](https://img.shields.io/badge/HUSKY-NFC-yellow) <a href="">
+## <img alt="NFC" src="https://img.shields.io/badge/HUSKY-NFC-yellow">
 This repo contains some documents, some files, and other goodies related to the NFC treasure hunt :coin:
 
 > Note: This NFC repo will not include hints to the challenges!
