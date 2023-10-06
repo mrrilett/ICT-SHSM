@@ -1,11 +1,11 @@
 # Welcome to Henderson ICT SHSM <a href="">
 
-## <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyNFC"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-NFC-ffff00"></a>:moneybag:
+## :moneybag: <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyNFC"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-NFC-ffff00"></a>
 This repo contains some documents, some files, and other goodies related to the NFC treasure hunt 
 
 > Note: This NFC repo will not include hints to the challenges!
 
-## <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyTV"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-TV-0000ff"></a>:tv: 
+## :tv: <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyTV"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-TV-0000ff"></a>
 The televisions around the school display static webpages. This repo is designed to host each static page for specific televisions.
   
 > Before editing this repo, ensure you are working within the correct directory.
