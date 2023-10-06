@@ -1,3 +1,4 @@
-# This repo contains all projects in the Henderson ICT SHSM program
+# Welcome to Henderson ICT SHSM
 
-Check them out below...
+![Static Badge](https://img.shields.io/badge/Status-in_progress-yellow:badgeContent)
+
