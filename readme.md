@@ -1,0 +1,3 @@
+# This repo contains all projects in the Henderson ICT SHSM program
+
+Check them out below...
