@@ -10,7 +10,7 @@ The televisions around the school display static webpages. This repo is designed
   
 > Before editing this repo, ensure you are working within the correct directory.
 
-## <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyVR"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-VR-7fffd4"></a>
+## :eyeglasses: <a href="https://github.com/mrrilett/ICT-SHSM/tree/main/HuskyVR"><img alt="NFC" src="https://img.shields.io/badge/HUSKY-VR-7fffd4"></a>
 Our latest addition to SHSM repo's!
 
 Using the Oculus Quest 2, SHSM students are developing a virtual Henderson world that we can explore and use to interact with objects, student work, and virtual tours.
